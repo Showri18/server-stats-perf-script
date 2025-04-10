@@ -1,5 +1,5 @@
 # This script displays follwoing info
-# URL- https://roadmap.sh/projects/server-stats 
+https://roadmap.sh/projects/server-stats 
 OS details
 Uptime
 Total CPU usage
